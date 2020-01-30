@@ -1,0 +1,65 @@
+#content{
+width:150px;
+background-color: grey;
+}
+
+
+
+#MyTextBox{
+margin-top: 50px;
+margin-bottom: 50px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#Button{
+
+border: none; 
+color:black; 
+font-family: 'Acme', sans-serif;
+padding: 15px 30px; 
+cursor: pointer;
+}
+
+
+.Add {
+float: left;
+list-style: none;
+text-align: center;
+background-color:green;
+margin-right: 30px;
+width: 150px;
+line-height: 60px;
+}
+
+.Remove {
+float: left;
+list-style: none;
+text-align: center;
+background-color: yellow;
+margin-right: 30px;
+width: 150px;
+line-height: 60px;
+}
+
+.Clear {
+float: left;
+list-style: none;
+text-align: center;
+background-color: red;
+margin-right: 30px;
+width: 150px;
+line-height: 60px;
+}
+
+
+
+
+
+
+#Main{
+    
+
+}
