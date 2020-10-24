@@ -1,2 +1,2 @@
 # Javascript Exercise
-A-persistent-item-list
+A persistent item list
